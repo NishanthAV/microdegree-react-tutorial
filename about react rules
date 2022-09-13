@@ -1,0 +1,10 @@
+//components always returns JSX
+//return single element
+//div / section /article or fragment
+//use camelcase for html attribute
+//className instead of class
+//close every element
+//formatting
+//nested functions
+//css 
+//props
